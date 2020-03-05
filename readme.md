@@ -5,7 +5,7 @@
 > Lost in translation is real.
 
 ## Philosophy
-> Universe is either expanding or contracting - Albert Eienstien.
+> Universe is either expanding or contracting - Albert Einstein.
 
 In the grand scheme of things, the entire universe can be described in terms of few a abstractions. We call them the law of nature. Programming is no exception. While imperative thinking allows each individual to be an individual, it may confuse others if they are not used to "their" way of thinking :). Functional thinking abstracts the complexity (function) and opinion (implementation) & provide us a generic way to  communicate and work together. Nonetheless, we need both,  individualism and the ability to work/exist as a group.
 
